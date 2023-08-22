@@ -1,7 +1,7 @@
 # toy_data_analysis
 
 <details >
-<summary>수술 재발_Recurrence Of Surgery</summary>
+<summary>각 변수별 입원기간의 차이?</summary>
 
 ### DDA 분석
 | Column    | Column 설명   | 데이터 분류 | 분석가 의견     |
