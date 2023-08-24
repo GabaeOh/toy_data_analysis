@@ -1,9 +1,9 @@
-# toy_data_analysis
+# Recurrence Of Surgery
 
 <details >
-<summary>각 변수별 입원기간의 차이?</summary>
+<summary>DDA 분석 </summary>
 
-### DDA 분석
+### 목적/설명변수 데이터분류 확인 
 | Column    | Column 설명   | 데이터 분류 | 분석가 의견     |
 |------|------|-----|-------|
 | 입원기간                  | 입원 기간   | 날짜형 |                 |
@@ -26,3 +26,5 @@
 ### 분석 기준 :   연령대에 따라 발생되는 질병의 종류 분포도 (x:연령, y:질병 종류 ) 
 
 </details>
+
+### 분석결과 
